@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library and selecting multiple images. After selecting the images and closing the picker, the application may crash or freeze. The error message in the console varies, often showing a native module error or a runtime exception.
